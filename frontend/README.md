@@ -71,7 +71,7 @@ This will start the backend server (usually on `http://localhost:5000` or simila
 Once both the frontend and backend servers are running, you can access the Media Sharing App in your web browser. Navigate to:
 
 ```
-http://localhost:3000
+http://localhost:5000
 ```
 
 You should now be able to upload, view, and manage your media files.
